@@ -12,7 +12,7 @@ input[required] {
 
 form[method=post] {
     background-color: lightgray;
-}*/
+}
 
 input[type ="text"] {
     border: 1px solid green;
@@ -20,5 +20,7 @@ input[type ="text"] {
 
 input[type ="email"] {
     border: 1px solid red;
-}
+} */
+
+
 
