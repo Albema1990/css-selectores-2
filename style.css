@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+.color-verde {
+    color: green;
+    background-color: lightgray;
+}
+
+#primer-parrafo {
+    color: purple;
+    background-color: transparent;
+}
