@@ -1,0 +1,36 @@
+/*h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+.color-verde {
+    color: green;
+    background-color: lightgray;
+}
+
+#primer-parrafo {
+    color: purple;
+    background-color: transparent;
+}*/
+
+h1,
+h2,
+h3 {
+    font-family: "Arial Black", sans-serif;
+}
+
+.destacado {
+    color: orange;
+    font-weight: bold;
+}
+
+p.destacado {
+    color: teal;
+}
+
+/*p#ultimo-parrafo {
+    color: brown;
+}*/
